@@ -2,7 +2,7 @@
 
 双组织（[YYC-Cube](https://github.com/YYC-Cube) / [YanYuCloudCube](https://github.com/YanYuCloudCube)）全部仓库的自动清点看板。
 
-- 清点时间：2026-10-11T04:59:15Z（UTC）
+- 清点时间：2026-10-11T05:01:35Z（UTC）
 - 仓库总数：107（YYC-Cube 101 + YanYuCloudCube 6）
 - 数据来源：GitHub REST API（`scripts/inventory.py`，每周一 03:23 UTC 自动运行，可手动触发）
 - 明细数据：[`data/repos.json`](data/repos.json)（stars / forks / 更新时间 / Pages 状态 / 归档标记）
@@ -18,7 +18,7 @@
 | [NVIDIA-DGX-Workbench](https://github.com/YYC-Cube/NVIDIA-DGX-Workbench) | YYC-Cube | 0 | HTML | 2026-10-09 | [nvidia-workbench.yyc3.vip](https://nvidia-workbench.yyc3.vip/) |  |
 | [YanYuCloud](https://github.com/YYC-Cube/YanYuCloud) | YYC-Cube | 0 | — | 2026-03-14 | — |  |
 | [YanYuCloudCube](https://github.com/YYC-Cube/YanYuCloudCube) | YYC-Cube | 1 | Shell | 2026-07-27 | — |  |
-| [YYC-CUBE-HUB](https://github.com/YYC-Cube/YYC-CUBE-HUB) | YYC-Cube | 0 | — | 2026-10-11 | — |  |
+| [YYC-CUBE-HUB](https://github.com/YYC-Cube/YYC-CUBE-HUB) | YYC-Cube | 0 | Python | 2026-10-11 | — |  |
 | [YYC3-0379-World](https://github.com/YYC-Cube/YYC3-0379-World) | YYC-Cube | 0 | Python | 2026-10-09 | — |  |
 | [YYC3-Administration](https://github.com/YYC-Cube/YYC3-Administration) | YYC-Cube | 2 | TypeScript | 2026-10-05 | [admin.yyc3.vip](https://admin.yyc3.vip/) |  |
 | [YYC3-Agent-Builder](https://github.com/YYC-Cube/YYC3-Agent-Builder) | YYC-Cube | 0 | TypeScript | 2026-10-10 | [anget.yyc3.vip](https://anget.yyc3.vip/) |  |
