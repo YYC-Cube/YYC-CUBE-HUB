@@ -2,24 +2,24 @@
 
 双组织（[YYC-Cube](https://github.com/YYC-Cube) / [YanYuCloudCube](https://github.com/YanYuCloudCube)）全部仓库的自动清点看板。
 
-- 清点时间：2026-10-11T05:01:35Z（UTC）
-- 仓库总数：107（YYC-Cube 101 + YanYuCloudCube 6）
+- 清点时间：2026-10-12T11:05:23Z（UTC）
+- 仓库总数：106（YYC-Cube 100 + YanYuCloudCube 6）
 - 数据来源：GitHub REST API（`scripts/inventory.py`，每周一 03:23 UTC 自动运行，可手动触发）
 - 明细数据：[`data/repos.json`](data/repos.json)（stars / forks / 更新时间 / Pages 状态 / 归档标记）
 
 ## 变更摘要（对照上次清点）
 
-- 无变更
+- **移除**（1）：YYC-Cube/YYC3-PAI
 
 ## 仓库总览
 
 | 仓库 | 组织 | Stars | 语言 | 最近推送 | Pages | 归档 |
 |---|---|---:|---|---|---|---|
-| [NVIDIA-DGX-Workbench](https://github.com/YYC-Cube/NVIDIA-DGX-Workbench) | YYC-Cube | 0 | HTML | 2026-10-09 | [nvidia-workbench.yyc3.vip](https://nvidia-workbench.yyc3.vip/) |  |
+| [NVIDIA-DGX-Workbench](https://github.com/YYC-Cube/NVIDIA-DGX-Workbench) | YYC-Cube | 0 | HTML | 2026-10-11 | [nvidia-workbench.yyc3.vip](https://nvidia-workbench.yyc3.vip/) |  |
 | [YanYuCloud](https://github.com/YYC-Cube/YanYuCloud) | YYC-Cube | 0 | — | 2026-03-14 | — |  |
 | [YanYuCloudCube](https://github.com/YYC-Cube/YanYuCloudCube) | YYC-Cube | 1 | Shell | 2026-07-27 | — |  |
 | [YYC-CUBE-HUB](https://github.com/YYC-Cube/YYC-CUBE-HUB) | YYC-Cube | 0 | Python | 2026-10-11 | — |  |
-| [YYC3-0379-World](https://github.com/YYC-Cube/YYC3-0379-World) | YYC-Cube | 0 | Python | 2026-10-09 | — |  |
+| [YYC3-0379-World](https://github.com/YYC-Cube/YYC3-0379-World) | YYC-Cube | 0 | Python | 2026-10-11 | — |  |
 | [YYC3-Administration](https://github.com/YYC-Cube/YYC3-Administration) | YYC-Cube | 2 | TypeScript | 2026-10-05 | [admin.yyc3.vip](https://admin.yyc3.vip/) |  |
 | [YYC3-Agent-Builder](https://github.com/YYC-Cube/YYC3-Agent-Builder) | YYC-Cube | 0 | TypeScript | 2026-10-10 | [anget.yyc3.vip](https://anget.yyc3.vip/) |  |
 | [YYC3-Agent-Core](https://github.com/YYC-Cube/YYC3-Agent-Core) | YYC-Cube | 0 | Python | 2026-10-10 | — |  |
@@ -35,7 +35,7 @@
 | [YYC3-AI-Family](https://github.com/YYC-Cube/YYC3-AI-Family) | YYC-Cube | 0 | TypeScript | 2026-09-26 | [family-ai.yyc3.top](https://family-ai.yyc3.top/) |  |
 | [YYC3-AI-Family-API-Console](https://github.com/YYC-Cube/YYC3-AI-Family-API-Console) | YYC-Cube | 0 | TypeScript | 2026-09-23 | [token.yyc3.top](https://token.yyc3.top/) |  |
 | [YYC3-AI-Family-Comic-Drama](https://github.com/YYC-Cube/YYC3-AI-Family-Comic-Drama) | YYC-Cube | 2 | Python | 2026-10-08 | [agent.yyc3.top](https://agent.yyc3.top/) |  |
-| [YYC3-AI-Family-Multi-Agent-Platform](https://github.com/YYC-Cube/YYC3-AI-Family-Multi-Agent-Platform) | YYC-Cube | 0 | TypeScript | 2026-10-05 | [pro.yyc3.top](https://pro.yyc3.top/) |  |
+| [YYC3-AI-Family-Multi-Agent-Platform](https://github.com/YYC-Cube/YYC3-AI-Family-Multi-Agent-Platform) | YYC-Cube | 0 | TypeScript | 2026-10-12 | [pro.yyc3.top](https://pro.yyc3.top/) |  |
 | [YYC3-AI-Growth-Companion](https://github.com/YYC-Cube/YYC3-AI-Growth-Companion) | YYC-Cube | 0 | TypeScript | 2026-10-04 | [xy.yyc3.vip](https://xy.yyc3.vip/) |  |
 | [YYC3-AI-Intelligence-Platform](https://github.com/YYC-Cube/YYC3-AI-Intelligence-Platform) | YYC-Cube | 0 | TypeScript | 2026-10-04 | [neuxs-ai.yyc3.top](https://neuxs-ai.yyc3.top/) |  |
 | [YYC3-AI-PAI](https://github.com/YYC-Cube/YYC3-AI-PAI) | YYC-Cube | 0 | TypeScript | 2026-09-17 | [ai-pai.yyc3.top](https://ai-pai.yyc3.top/) |  |
@@ -52,7 +52,7 @@
 | [YYC3-CLI](https://github.com/YYC-Cube/YYC3-CLI) | YYC-Cube | 0 | Shell | 2026-10-04 | — |  |
 | [YYC3-Cloud-Intelli-Matrix](https://github.com/YYC-Cube/YYC3-Cloud-Intelli-Matrix) | YYC-Cube | 0 | TypeScript | 2026-10-11 | [matrix.yyc3.top](https://matrix.yyc3.top/) |  |
 | [YYC3-Cloud-Matrix](https://github.com/YYC-Cube/YYC3-Cloud-Matrix) | YYC-Cube | 0 | TypeScript | 2026-10-10 | [matrix.yyc3.vip](https://matrix.yyc3.vip/) |  |
-| [YYC3-CloudPivot-Intelli-Matrix](https://github.com/YYC-Cube/YYC3-CloudPivot-Intelli-Matrix) | YYC-Cube | 0 | TypeScript | 2026-10-10 | [pivot.yyc3.top](https://pivot.yyc3.top/) |  |
+| [YYC3-CloudPivot-Intelli-Matrix](https://github.com/YYC-Cube/YYC3-CloudPivot-Intelli-Matrix) | YYC-Cube | 0 | TypeScript | 2026-10-12 | [pivot.yyc3.top](https://pivot.yyc3.top/) |  |
 | [YYC3-CloudPivot-Intelli-Matrix-Dev](https://github.com/YYC-Cube/YYC3-CloudPivot-Intelli-Matrix-Dev) | YYC-Cube | 0 | TypeScript | 2026-09-24 | — |  |
 | [YYC3-Club-Ops](https://github.com/YYC-Cube/YYC3-Club-Ops) | YYC-Cube | 0 | TypeScript | 2026-09-17 | [club.yyc3.top](https://club.yyc3.top/) |  |
 | [YYC3-Clube-Management-System](https://github.com/YYC-Cube/YYC3-Clube-Management-System) | YYC-Cube | 0 | HTML | 2026-10-04 | [clube.yyc3.top](https://clube.yyc3.top/) |  |
@@ -71,9 +71,9 @@
 | [YYC3-Edu-Basic](https://github.com/YYC-Cube/YYC3-Edu-Basic) | YYC-Cube | 0 | TypeScript | 2026-10-04 | — |  |
 | [YYC3-Enterprise-Management-System](https://github.com/YYC-Cube/YYC3-Enterprise-Management-System) | YYC-Cube | 1 | TypeScript | 2026-10-04 | [ems.yyc3.vip](https://ems.yyc3.vip/) |  |
 | [YYC3-Family-AI-Agents](https://github.com/YYC-Cube/YYC3-Family-AI-Agents) | YYC-Cube | 0 | Python | 2026-09-24 | — |  |
-| [YYC3-Family-IDE-Matrix](https://github.com/YYC-Cube/YYC3-Family-IDE-Matrix) | YYC-Cube | 0 | TypeScript | 2026-10-07 | [ide.yyc3.top](https://ide.yyc3.top/) |  |
+| [YYC3-Family-IDE-Matrix](https://github.com/YYC-Cube/YYC3-Family-IDE-Matrix) | YYC-Cube | 0 | TypeScript | 2026-10-12 | [ide.yyc3.top](https://ide.yyc3.top/) |  |
 | [YYC3-Family-PAI-Cube](https://github.com/YYC-Cube/YYC3-Family-PAI-Cube) | YYC-Cube | 0 | TypeScript | 2026-10-04 | [family.yyc3.vip](https://family.yyc3.vip/) |  |
-| [YYC3-Financial-Dashboard](https://github.com/YYC-Cube/YYC3-Financial-Dashboard) | YYC-Cube | 0 | TypeScript | 2026-10-05 | [fd.yyc3.top](https://fd.yyc3.top/) |  |
+| [YYC3-Financial-Dashboard](https://github.com/YYC-Cube/YYC3-Financial-Dashboard) | YYC-Cube | 0 | TypeScript | 2026-10-12 | [fd.yyc3.top](https://fd.yyc3.top/) |  |
 | [YYC3-Financial-Quantitative-Trading-System](https://github.com/YYC-Cube/YYC3-Financial-Quantitative-Trading-System) | YYC-Cube | 1 | TypeScript | 2026-10-04 | [trading.yyc3.vip](https://trading.yyc3.vip/) |  |
 | [YYC3-Futuristic-Dashboard](https://github.com/YYC-Cube/YYC3-Futuristic-Dashboard) | YYC-Cube | 0 | TypeScript | 2026-10-04 | [futuristic.yyc3.top](https://futuristic.yyc3.top/) |  |
 | [YYC3-Growth-Guardian-System](https://github.com/YYC-Cube/YYC3-Growth-Guardian-System) | YYC-Cube | 0 | TypeScript | 2026-10-04 | — |  |
@@ -100,7 +100,6 @@
 | [YYC3-Nexus-Platform](https://github.com/YYC-Cube/YYC3-Nexus-Platform) | YYC-Cube | 0 | TypeScript | 2026-10-04 | [hub.yyc3.vip](https://hub.yyc3.vip/) |  |
 | [YYC3-Nexus-Portal](https://github.com/YYC-Cube/YYC3-Nexus-Portal) | YYC-Cube | 0 | TypeScript | 2026-10-04 | [portal.yyc3.top](https://portal.yyc3.top/) |  |
 | [YYC3-Novamind](https://github.com/YYC-Cube/YYC3-Novamind) | YYC-Cube | 0 | TypeScript | 2026-09-24 | [zy.yyc3.top](https://zy.yyc3.top/) |  |
-| [YYC3-PAI](https://github.com/YYC-Cube/YYC3-PAI) | YYC-Cube | 0 | — | 2026-10-10 | [pai.yyc3.top](https://pai.yyc3.top/) |  |
 | [YYC3-PAI-AI](https://github.com/YYC-Cube/YYC3-PAI-AI) | YYC-Cube | 1 | Python | 2026-10-11 | [pai.yyc3.vip](https://pai.yyc3.vip/) |  |
 | [YYC3-PortAISys](https://github.com/YYC-Cube/YYC3-PortAISys) | YYC-Cube | 0 | TypeScript | 2026-10-04 | [portable.yyc3.top](https://portable.yyc3.top/) |  |
 | [YYC3-Portfolio](https://github.com/YYC-Cube/YYC3-Portfolio) | YYC-Cube | 0 | TypeScript | 2026-10-04 | [design.yyc3.top](https://design.yyc3.top/) |  |

@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-11T05:01:35Z",
-  "previousGeneratedAt": "2026-10-11T04:59:15Z",
+  "generatedAt": "2026-10-12T11:05:23Z",
+  "previousGeneratedAt": "2026-10-11T05:01:35Z",
   "orgs": [
     "YYC-Cube",
     "YanYuCloudCube"
   ],
-  "total": 107,
+  "total": 106,
   "byOrg": {
-    "YYC-Cube": 101,
+    "YYC-Cube": 100,
     "YanYuCloudCube": 6
   },
   "repos": [
@@ -23,8 +23,8 @@
       "archived": false,
       "private": false,
       "createdAt": "2026-08-18T10:00:14Z",
-      "pushedAt": "2026-10-09T14:04:23Z",
-      "updatedAt": "2026-10-09T14:04:27Z",
+      "pushedAt": "2026-10-11T16:36:09Z",
+      "updatedAt": "2026-10-11T16:36:11Z",
       "defaultBranch": "main",
       "pages": {
         "enabled": true,
@@ -83,8 +83,8 @@
       "archived": false,
       "private": false,
       "createdAt": "2026-10-11T04:50:31Z",
-      "pushedAt": "2026-10-11T05:00:54Z",
-      "updatedAt": "2026-10-11T05:00:58Z",
+      "pushedAt": "2026-10-11T05:01:35Z",
+      "updatedAt": "2026-10-11T05:01:39Z",
       "defaultBranch": "main",
       "pages": {
         "enabled": false
@@ -102,8 +102,8 @@
       "archived": false,
       "private": false,
       "createdAt": "2026-07-10T10:46:20Z",
-      "pushedAt": "2026-10-09T13:46:34Z",
-      "updatedAt": "2026-10-09T13:46:39Z",
+      "pushedAt": "2026-10-11T17:58:50Z",
+      "updatedAt": "2026-10-11T17:58:54Z",
       "defaultBranch": "main",
       "pages": {
         "enabled": false
@@ -445,7 +445,7 @@
       "archived": false,
       "private": false,
       "createdAt": "2026-06-02T05:29:19Z",
-      "pushedAt": "2026-10-05T10:55:56Z",
+      "pushedAt": "2026-10-12T04:20:26Z",
       "updatedAt": "2026-10-05T10:55:59Z",
       "defaultBranch": "main",
       "pages": {
@@ -813,7 +813,7 @@
       "archived": false,
       "private": false,
       "createdAt": "2026-02-26T14:36:27Z",
-      "pushedAt": "2026-10-10T14:29:39Z",
+      "pushedAt": "2026-10-12T01:34:42Z",
       "updatedAt": "2026-10-10T14:29:46Z",
       "defaultBranch": "main",
       "pages": {
@@ -1210,7 +1210,7 @@
       "archived": false,
       "private": false,
       "createdAt": "2026-08-19T20:14:40Z",
-      "pushedAt": "2026-10-07T08:36:18Z",
+      "pushedAt": "2026-10-12T03:39:43Z",
       "updatedAt": "2026-10-04T12:27:28Z",
       "defaultBranch": "main",
       "pages": {
@@ -1254,7 +1254,7 @@
       "archived": false,
       "private": false,
       "createdAt": "2026-05-27T01:25:18Z",
-      "pushedAt": "2026-10-05T01:16:13Z",
+      "pushedAt": "2026-10-12T03:12:44Z",
       "updatedAt": "2026-10-04T16:25:29Z",
       "defaultBranch": "main",
       "pages": {
@@ -1817,28 +1817,6 @@
     },
     {
       "org": "YYC-Cube",
-      "name": "YYC3-PAI",
-      "fullName": "YYC-Cube/YYC3-PAI",
-      "description": "**YYC3-Pai（YYC π³）** 是由 [YanYuCloudCube](https://github.com/YYC-Cube) 维护的开源、自托管 AI 助手。它不仅是工具，更是可并行运作的数字助手。通过多 Agent 架构，它为团队、家庭和个人构建了既独立又协作的智能环境。这一切都运行在你的机器上——完全自托管的设计让隐私不再是妥协，而单进程启动的便捷性，让强大的 Web 控制台、CLI 与 IM 集成触手可及。",
-      "url": "https://github.com/YYC-Cube/YYC3-PAI",
-      "stars": 0,
-      "forks": 0,
-      "language": "",
-      "archived": false,
-      "private": false,
-      "createdAt": "2026-10-10T12:41:47Z",
-      "pushedAt": "2026-10-10T12:41:48Z",
-      "updatedAt": "2026-10-10T20:25:55Z",
-      "defaultBranch": "main",
-      "pages": {
-        "enabled": true,
-        "status": null,
-        "url": "https://pai.yyc3.top/",
-        "cname": "pai.yyc3.top"
-      }
-    },
-    {
-      "org": "YYC-Cube",
       "name": "YYC3-PAI-AI",
       "fullName": "YYC-Cube/YYC3-PAI-AI",
       "description": "YYC3-Pai (π³) — self-hosted AI assistant platform: multi-user, multi-agent, IM gateway, MCP, cron, knowledge base | 自托管多智能体 AI 助手平台",
@@ -1849,8 +1827,8 @@
       "archived": false,
       "private": false,
       "createdAt": "2026-06-02T22:38:57Z",
-      "pushedAt": "2026-10-11T04:26:47Z",
-      "updatedAt": "2026-10-11T04:26:49Z",
+      "pushedAt": "2026-10-11T20:08:07Z",
+      "updatedAt": "2026-10-11T20:08:10Z",
       "defaultBranch": "main",
       "pages": {
         "enabled": true,
