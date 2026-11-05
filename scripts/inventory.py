@@ -23,6 +23,7 @@ import urllib.error
 import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
+from urllib.parse import urlparse
 
 ORGS = ["YYC-Cube", "YanYuCloudCube"]
 # 账号类型缓存：YYC-Cube 实为个人账号（/users/ 端点），YanYuCloudCube 为组织
@@ -34,8 +35,20 @@ README_FILE = ROOT / "README.md"
 
 UA = "yyc3-cube-hub-inventory/1.0"
 
+# SSRF 防线：本脚本只允许访问 GitHub API。分页 Link 头与 fullName 均来自
+# API 响应（响应控制型输入），必须经白名单校验后才可作为请求目标。
+_SAFE_API_HOSTS = {"api.github.com"}
+
+
+def _assert_safe_url(url: str) -> None:
+    parsed = urlparse(url)
+    host = (parsed.hostname or "").lower()
+    if parsed.scheme != "https" or host not in _SAFE_API_HOSTS:
+        raise ValueError(f"blocked non-allowlisted URL: {url!r}")
+
 
 def api_get(url: str, token: str) -> tuple[object, dict[str, str]]:
+    _assert_safe_url(url)
     req = urllib.request.Request(
         url,
         headers={
