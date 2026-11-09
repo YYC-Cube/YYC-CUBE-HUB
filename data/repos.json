@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-02T11:27:19Z",
-  "previousGeneratedAt": "2026-10-26T09:09:07Z",
+  "generatedAt": "2026-11-09T11:50:43Z",
+  "previousGeneratedAt": "2026-11-02T11:27:19Z",
   "orgs": [
     "YYC-Cube",
     "YanYuCloudCube"
   ],
-  "total": 118,
+  "total": 123,
   "byOrg": {
-    "YYC-Cube": 112,
+    "YYC-Cube": 117,
     "YanYuCloudCube": 6
   },
   "repos": [
@@ -83,11 +83,14 @@
       "archived": false,
       "private": false,
       "createdAt": "2026-10-11T04:50:31Z",
-      "pushedAt": "2026-10-29T21:01:35Z",
-      "updatedAt": "2026-10-29T21:01:39Z",
+      "pushedAt": "2026-11-05T02:35:50Z",
+      "updatedAt": "2026-11-05T02:35:55Z",
       "defaultBranch": "main",
       "pages": {
-        "enabled": false
+        "enabled": true,
+        "status": "built",
+        "url": "http://docs.yyc3.vip/",
+        "cname": "docs.yyc3.vip"
       }
     },
     {
@@ -102,7 +105,7 @@
       "archived": false,
       "private": false,
       "createdAt": "2026-07-10T10:46:20Z",
-      "pushedAt": "2026-11-01T22:10:46Z",
+      "pushedAt": "2026-11-02T13:26:39Z",
       "updatedAt": "2026-11-01T22:10:48Z",
       "defaultBranch": "main",
       "pages": {
@@ -121,8 +124,8 @@
       "archived": false,
       "private": false,
       "createdAt": "2026-06-02T22:21:44Z",
-      "pushedAt": "2026-11-02T07:04:41Z",
-      "updatedAt": "2026-11-02T07:04:44Z",
+      "pushedAt": "2026-11-04T02:58:39Z",
+      "updatedAt": "2026-11-04T02:58:43Z",
       "defaultBranch": "main",
       "pages": {
         "enabled": true,
@@ -401,8 +404,8 @@
       "archived": false,
       "private": false,
       "createdAt": "2026-10-22T22:41:07Z",
-      "pushedAt": "2026-11-02T07:16:13Z",
-      "updatedAt": "2026-11-02T07:16:16Z",
+      "pushedAt": "2026-11-06T20:24:23Z",
+      "updatedAt": "2026-11-06T20:24:27Z",
       "defaultBranch": "main",
       "pages": {
         "enabled": false
@@ -436,14 +439,14 @@
       "fullName": "YYC-Cube/YYC3-AI-Family-Comic-Drama",
       "description": "YYC³ AI Family·Comic Drama — 8拟人Agent×ReAct-C九步闭环驱动「小说→分镜→图像→视频→成片→运营」六阶段全链路工业化漫剧生产系统 | Mac M4 + 双DGX Spark GB10 + NAS | 90天3集样片·≤2元/集·一致性≥80%",
       "url": "https://github.com/YYC-Cube/YYC3-AI-Family-Comic-Drama",
-      "stars": 3,
+      "stars": 5,
       "forks": 0,
       "language": "Python",
       "archived": false,
       "private": false,
       "createdAt": "2026-09-25T18:49:03Z",
       "pushedAt": "2026-10-29T15:45:57Z",
-      "updatedAt": "2026-10-29T15:46:01Z",
+      "updatedAt": "2026-11-05T09:01:13Z",
       "defaultBranch": "main",
       "pages": {
         "enabled": true,
@@ -527,14 +530,14 @@
       "archived": false,
       "private": false,
       "createdAt": "2026-06-02T04:21:17Z",
-      "pushedAt": "2026-10-04T12:03:52Z",
-      "updatedAt": "2026-10-29T11:34:57Z",
+      "pushedAt": "2026-11-05T10:00:16Z",
+      "updatedAt": "2026-11-05T10:00:21Z",
       "defaultBranch": "main",
       "pages": {
         "enabled": true,
         "status": null,
-        "url": "https://neuxs-ai.yyc3.top/",
-        "cname": "neuxs-ai.yyc3.top"
+        "url": "https://ai.yyc3.fun/",
+        "cname": "ai.yyc3.fun"
       }
     },
     {
@@ -659,8 +662,8 @@
       "archived": false,
       "private": false,
       "createdAt": "2026-08-18T15:58:32Z",
-      "pushedAt": "2026-11-02T07:43:49Z",
-      "updatedAt": "2026-11-02T07:41:55Z",
+      "pushedAt": "2026-11-08T20:09:54Z",
+      "updatedAt": "2026-11-07T00:15:10Z",
       "defaultBranch": "main",
       "pages": {
         "enabled": true,
@@ -681,7 +684,7 @@
       "archived": false,
       "private": false,
       "createdAt": "2026-07-17T23:07:58Z",
-      "pushedAt": "2026-10-04T11:52:26Z",
+      "pushedAt": "2026-11-04T02:33:08Z",
       "updatedAt": "2026-10-29T11:35:00Z",
       "defaultBranch": "main",
       "pages": {
@@ -725,7 +728,7 @@
       "archived": false,
       "private": false,
       "createdAt": "2026-02-04T13:32:12Z",
-      "pushedAt": "2026-10-30T00:25:14Z",
+      "pushedAt": "2026-11-03T15:06:04Z",
       "updatedAt": "2026-10-29T21:33:41Z",
       "defaultBranch": "main",
       "pages": {
@@ -810,9 +813,9 @@
       "archived": false,
       "private": false,
       "createdAt": "2026-07-12T02:28:31Z",
-      "pushedAt": "2026-10-24T02:55:01Z",
-      "updatedAt": "2026-10-29T11:32:23Z",
-      "defaultBranch": "master",
+      "pushedAt": "2026-11-04T18:01:29Z",
+      "updatedAt": "2026-11-04T17:55:52Z",
+      "defaultBranch": "main",
       "pages": {
         "enabled": false
       }
@@ -829,7 +832,7 @@
       "archived": false,
       "private": false,
       "createdAt": "2026-03-26T10:52:40Z",
-      "pushedAt": "2026-10-26T21:22:08Z",
+      "pushedAt": "2026-11-05T16:23:17Z",
       "updatedAt": "2026-10-29T11:31:45Z",
       "defaultBranch": "main",
       "pages": {
@@ -851,7 +854,7 @@
       "archived": false,
       "private": false,
       "createdAt": "2026-08-19T20:20:58Z",
-      "pushedAt": "2026-11-01T03:35:33Z",
+      "pushedAt": "2026-11-09T06:08:04Z",
       "updatedAt": "2026-10-29T11:31:35Z",
       "defaultBranch": "main",
       "pages": {
@@ -873,7 +876,7 @@
       "archived": false,
       "private": false,
       "createdAt": "2026-02-26T14:36:27Z",
-      "pushedAt": "2026-10-31T06:21:40Z",
+      "pushedAt": "2026-11-09T00:28:19Z",
       "updatedAt": "2026-10-29T11:31:57Z",
       "defaultBranch": "main",
       "pages": {
@@ -1024,6 +1027,25 @@
     },
     {
       "org": "YYC-Cube",
+      "name": "YYC3-Component-Library",
+      "fullName": "YYC-Cube/YYC3-Component-Library",
+      "description": "YYC³（YanYuCloudCube） 统一组件库 — 企业级 React 组件集合 · pnpm + Turborepo Monorepo · 双源迁移与逐项拆分闭环推进 · 16 包（基础/共享/域/职能四层，各包定位见包下 POSITIONING.md）",
+      "url": "https://github.com/YYC-Cube/YYC3-Component-Library",
+      "stars": 0,
+      "forks": 0,
+      "language": "TypeScript",
+      "archived": false,
+      "private": false,
+      "createdAt": "2026-11-02T19:17:48Z",
+      "pushedAt": "2026-11-08T18:53:18Z",
+      "updatedAt": "2026-11-08T18:53:20Z",
+      "defaultBranch": "main",
+      "pages": {
+        "enabled": false
+      }
+    },
+    {
+      "org": "YYC-Cube",
       "name": "YYC3-Customer-Care-Cente",
       "fullName": "YYC-Cube/YYC3-Customer-Care-Cente",
       "description": "**YYC3-Customer-Care-Cente** 项目是一个基于「五高五标五化」理念的现代化AI代理服务落地页，采用Next.js 14+构建，集成了国际化系统、3D场景交互、动画效果和响应式设计；项目旨在为企业提供智能、高效、安全的客户关怀中心解决方案，通过AI技术提升客户服务质量和效率。",
@@ -1078,8 +1100,8 @@
       "archived": false,
       "private": false,
       "createdAt": "2026-05-26T02:53:40Z",
-      "pushedAt": "2026-11-02T05:50:21Z",
-      "updatedAt": "2026-11-02T05:03:40Z",
+      "pushedAt": "2026-11-04T22:32:04Z",
+      "updatedAt": "2026-11-04T22:32:08Z",
       "defaultBranch": "main",
       "pages": {
         "enabled": true,
@@ -1141,11 +1163,33 @@
       "archived": false,
       "private": false,
       "createdAt": "2026-10-15T00:14:33Z",
-      "pushedAt": "2026-11-01T02:29:22Z",
-      "updatedAt": "2026-11-01T01:53:08Z",
+      "pushedAt": "2026-11-08T11:57:36Z",
+      "updatedAt": "2026-11-08T11:57:40Z",
       "defaultBranch": "main",
       "pages": {
         "enabled": false
+      }
+    },
+    {
+      "org": "YYC-Cube",
+      "name": "YYC3-Dong-MusAI",
+      "fullName": "YYC-Cube/YYC3-Dong-MusAI",
+      "description": "M98 董小姐音乐宇宙 · 东方电子音乐人生态 | React 19 + Vite 8 + Express 5 + PostgreSQL 15 |",
+      "url": "https://github.com/YYC-Cube/YYC3-Dong-MusAI",
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "archived": false,
+      "private": false,
+      "createdAt": "2026-11-08T19:36:38Z",
+      "pushedAt": "2026-11-08T21:56:11Z",
+      "updatedAt": "2026-11-08T21:56:13Z",
+      "defaultBranch": "main",
+      "pages": {
+        "enabled": true,
+        "status": null,
+        "url": "http://music.yyc3.fun/",
+        "cname": "music.yyc3.fun"
       }
     },
     {
@@ -1182,7 +1226,7 @@
       "archived": false,
       "private": false,
       "createdAt": "2026-07-02T13:45:27Z",
-      "pushedAt": "2026-10-18T18:31:55Z",
+      "pushedAt": "2026-11-03T07:55:37Z",
       "updatedAt": "2026-10-29T11:33:14Z",
       "defaultBranch": "main",
       "pages": {
@@ -1204,7 +1248,7 @@
       "archived": false,
       "private": false,
       "createdAt": "2026-06-08T11:03:21Z",
-      "pushedAt": "2026-09-26T03:40:43Z",
+      "pushedAt": "2026-11-09T09:52:58Z",
       "updatedAt": "2026-10-29T11:35:11Z",
       "defaultBranch": "main",
       "pages": {
@@ -1289,8 +1333,8 @@
       "archived": false,
       "private": false,
       "createdAt": "2026-10-29T15:28:48Z",
-      "pushedAt": "2026-11-02T04:16:21Z",
-      "updatedAt": "2026-11-02T04:16:24Z",
+      "pushedAt": "2026-11-06T21:20:10Z",
+      "updatedAt": "2026-11-06T21:20:13Z",
       "defaultBranch": "main",
       "pages": {
         "enabled": false
@@ -1308,7 +1352,7 @@
       "archived": false,
       "private": false,
       "createdAt": "2026-08-19T20:14:40Z",
-      "pushedAt": "2026-11-02T01:29:47Z",
+      "pushedAt": "2026-11-09T01:30:41Z",
       "updatedAt": "2026-10-29T11:31:52Z",
       "defaultBranch": "main",
       "pages": {
@@ -1352,7 +1396,7 @@
       "archived": false,
       "private": false,
       "createdAt": "2026-05-27T01:25:18Z",
-      "pushedAt": "2026-11-02T01:11:16Z",
+      "pushedAt": "2026-11-09T01:10:00Z",
       "updatedAt": "2026-10-29T21:35:45Z",
       "defaultBranch": "main",
       "pages": {
@@ -1374,7 +1418,7 @@
       "archived": false,
       "private": false,
       "createdAt": "2026-02-03T01:45:27Z",
-      "pushedAt": "2026-11-01T19:11:46Z",
+      "pushedAt": "2026-11-08T19:06:02Z",
       "updatedAt": "2026-10-29T11:32:02Z",
       "defaultBranch": "main",
       "pages": {
@@ -1456,7 +1500,7 @@
       "archived": false,
       "private": false,
       "createdAt": "2026-10-22T22:27:07Z",
-      "pushedAt": "2026-11-02T04:38:54Z",
+      "pushedAt": "2026-11-08T22:22:04Z",
       "updatedAt": "2026-10-29T15:51:05Z",
       "defaultBranch": "main",
       "pages": {
@@ -1478,8 +1522,8 @@
       "archived": false,
       "private": false,
       "createdAt": "2026-07-12T02:24:01Z",
-      "pushedAt": "2026-10-29T21:35:53Z",
-      "updatedAt": "2026-10-29T21:35:58Z",
+      "pushedAt": "2026-11-04T21:22:54Z",
+      "updatedAt": "2026-11-04T22:33:09Z",
       "defaultBranch": "main",
       "pages": {
         "enabled": true,
@@ -1500,7 +1544,7 @@
       "archived": false,
       "private": false,
       "createdAt": "2026-06-03T05:00:06Z",
-      "pushedAt": "2026-11-01T05:38:34Z",
+      "pushedAt": "2026-11-09T01:12:54Z",
       "updatedAt": "2026-10-29T11:31:54Z",
       "defaultBranch": "main",
       "pages": {
@@ -1544,7 +1588,7 @@
       "archived": false,
       "private": false,
       "createdAt": "2026-02-15T09:22:54Z",
-      "pushedAt": "2026-10-04T16:27:44Z",
+      "pushedAt": "2026-11-04T03:27:43Z",
       "updatedAt": "2026-10-29T11:34:39Z",
       "defaultBranch": "main",
       "pages": {
@@ -1588,7 +1632,7 @@
       "archived": false,
       "private": false,
       "createdAt": "2026-07-23T13:59:13Z",
-      "pushedAt": "2026-10-31T23:16:56Z",
+      "pushedAt": "2026-11-03T04:24:30Z",
       "updatedAt": "2026-10-29T11:31:28Z",
       "defaultBranch": "main",
       "pages": {
@@ -1644,12 +1688,12 @@
       "url": "https://github.com/YYC-Cube/YYC3-LeisureManage",
       "stars": 0,
       "forks": 0,
-      "language": "HTML",
+      "language": "Shell",
       "archived": false,
       "private": false,
       "createdAt": "2026-10-31T21:18:57Z",
-      "pushedAt": "2026-11-01T00:58:10Z",
-      "updatedAt": "2026-11-01T00:46:20Z",
+      "pushedAt": "2026-11-08T11:57:53Z",
+      "updatedAt": "2026-11-08T11:57:56Z",
       "defaultBranch": "main",
       "pages": {
         "enabled": true,
@@ -1772,7 +1816,7 @@
       "description": "**YYC³ AI Family · Comic Drama** 是一套面向创作者与工作室的 **AI 驱动工业化漫剧生产平台**， > 覆盖「小说立项 → 剧本分镜 → 图像生成 → 视频合成 → 成片交付 → 运营反哺」六阶段全链路， > 由 **8 位 AI Family Agent** 平等协同驱动，以 ReAct-C 九步闭环引擎统一编排。",
       "url": "https://github.com/YYC-Cube/YYC3-MiniMax-3",
       "stars": 0,
-      "forks": 0,
+      "forks": 1,
       "language": "TypeScript",
       "archived": false,
       "private": false,
@@ -1826,6 +1870,28 @@
       "defaultBranch": "main",
       "pages": {
         "enabled": false
+      }
+    },
+    {
+      "org": "YYC-Cube",
+      "name": "YYC3-MusAI",
+      "fullName": "YYC-Cube/YYC3-MusAI",
+      "description": "**YYC3-MusAI是 YYC³ AI Family 项目中的智能音乐播放器，集成了先进的 AI 功能和现代化的用户体验。项目采用前后端分离架构，支持多种部署方式，提供完整的开发、测试、预发布和生产环境配置。",
+      "url": "https://github.com/YYC-Cube/YYC3-MusAI",
+      "stars": 0,
+      "forks": 0,
+      "language": "TypeScript",
+      "archived": false,
+      "private": false,
+      "createdAt": "2026-11-08T21:49:20Z",
+      "pushedAt": "2026-11-09T00:10:20Z",
+      "updatedAt": "2026-11-09T00:10:23Z",
+      "defaultBranch": "main",
+      "pages": {
+        "enabled": true,
+        "status": null,
+        "url": "https://musai.yyc3.vip/",
+        "cname": "musai.yyc3.vip"
       }
     },
     {
@@ -1884,7 +1950,7 @@
       "archived": false,
       "private": false,
       "createdAt": "2026-01-20T06:36:43Z",
-      "pushedAt": "2026-09-27T07:43:13Z",
+      "pushedAt": "2026-11-02T16:03:30Z",
       "updatedAt": "2026-10-29T11:35:03Z",
       "defaultBranch": "main",
       "pages": {
@@ -1892,6 +1958,25 @@
         "status": null,
         "url": "https://cloud.yyc3.top/",
         "cname": "cloud.yyc3.top"
+      }
+    },
+    {
+      "org": "YYC-Cube",
+      "name": "YYC3-Nebula-OS",
+      "fullName": "YYC-Cube/YYC3-Nebula-OS",
+      "description": "YYC³ NebulaOS（星云操作系统）— 企业级 AI 智能管理平台 | Next.js 16 · React 19 · Tailwind CSS 4 · shadcn/ui",
+      "url": "https://github.com/YYC-Cube/YYC3-Nebula-OS",
+      "stars": 0,
+      "forks": 0,
+      "language": "TypeScript",
+      "archived": false,
+      "private": false,
+      "createdAt": "2026-11-07T01:17:54Z",
+      "pushedAt": "2026-11-07T02:19:58Z",
+      "updatedAt": "2026-11-07T02:19:54Z",
+      "defaultBranch": "main",
+      "pages": {
+        "enabled": false
       }
     },
     {
@@ -1972,7 +2057,7 @@
       "archived": false,
       "private": false,
       "createdAt": "2026-05-05T18:15:46Z",
-      "pushedAt": "2026-11-01T18:11:22Z",
+      "pushedAt": "2026-11-08T18:06:39Z",
       "updatedAt": "2026-10-29T11:32:06Z",
       "defaultBranch": "main",
       "pages": {
@@ -2028,6 +2113,28 @@
     },
     {
       "org": "YYC-Cube",
+      "name": "YYC3-Pai",
+      "fullName": "YYC-Cube/YYC3-Pai",
+      "description": "YYC³ 自托管 AI 助手平台（Pai）· 线上: https://pai.yyc3.top",
+      "url": "https://github.com/YYC-Cube/YYC3-Pai",
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "archived": false,
+      "private": false,
+      "createdAt": "2026-11-05T01:22:51Z",
+      "pushedAt": "2026-11-05T01:32:03Z",
+      "updatedAt": "2026-11-05T01:26:14Z",
+      "defaultBranch": "main",
+      "pages": {
+        "enabled": true,
+        "status": "built",
+        "url": "http://pai.yyc3.top/",
+        "cname": "pai.yyc3.top"
+      }
+    },
+    {
+      "org": "YYC-Cube",
       "name": "YYC3-PAI-AI",
       "fullName": "YYC-Cube/YYC3-PAI-AI",
       "description": "YYC³ AI-PAI — 下一代AI驱动的智能编程助手：一人一端 · 数据主权 · 安全归用户（React 前端独立仓）",
@@ -2038,8 +2145,8 @@
       "archived": false,
       "private": false,
       "createdAt": "2026-10-29T11:22:46Z",
-      "pushedAt": "2026-11-02T07:36:14Z",
-      "updatedAt": "2026-11-02T07:36:17Z",
+      "pushedAt": "2026-11-05T00:56:09Z",
+      "updatedAt": "2026-11-02T12:14:04Z",
       "defaultBranch": "main",
       "pages": {
         "enabled": true,
@@ -2460,8 +2567,8 @@
       "archived": false,
       "private": false,
       "createdAt": "2026-04-30T19:32:32Z",
-      "pushedAt": "2026-10-29T09:38:01Z",
-      "updatedAt": "2026-10-29T09:47:36Z",
+      "pushedAt": "2026-11-08T19:21:57Z",
+      "updatedAt": "2026-11-08T19:22:00Z",
       "defaultBranch": "main",
       "pages": {
         "enabled": true,
